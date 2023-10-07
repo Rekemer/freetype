@@ -5,3 +5,4 @@ src/dlg/dlg.c
 subprojects/*
 !subprojects/*.wrap
 /tests/data/*
+builds/windows/vc2010/.vs/
